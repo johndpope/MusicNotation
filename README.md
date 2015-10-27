@@ -1,7 +1,7 @@
 
-# MusicApp
+# MusicNotation
 
-Introducing <b>MusicApp</b> 
+Introducing <b>MusicNotation</b> 
 Scott's' iOS-based music notation library and application suite for rendering and interacting with musical scores. 
 Based on <a href="https://github.com/0xfe/vexflow">VexFlow </a>.
 
@@ -17,7 +17,7 @@ Based on <a href="https://github.com/0xfe/vexflow">VexFlow </a>.
 
 ## Requirements
 
-- Requires iOS 8 or later
+- Requires iOS 9 or OS X 10.11
 - Requires Automatic Reference Counting (ARC)
 
 
@@ -29,7 +29,6 @@ Based on <a href="https://github.com/0xfe/vexflow">VexFlow </a>.
 
 ## Coming Soon
 
-- More applications
 - Tab notation
 - Animations
 - Stability enhancements and bug fixes
