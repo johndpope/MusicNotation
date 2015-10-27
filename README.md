@@ -2,7 +2,7 @@
 # MusicNotation
 
 Introducing <b>MusicNotation</b> 
-Scott's' iOS-based music notation library and application suite for rendering and interacting with musical scores. 
+Scott's' iOS-based music notation library for rendering with musical scores. 
 Based on <a href="https://github.com/0xfe/vexflow">VexFlow </a>.
 
 
@@ -23,8 +23,7 @@ Based on <a href="https://github.com/0xfe/vexflow">VexFlow </a>.
 
 ## Applications
 
-- ScoreListener
-- RhythmTrainer
+...None yet.
 
 
 ## Coming Soon
