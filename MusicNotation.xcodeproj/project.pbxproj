@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B27161732044EC897AF6CEA /* Pods_MusicNotationLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0C2C54BD95A8C7F22037989 /* Pods_MusicNotationLibrary.framework */; };
 		6B13A0531ADEC7B600150D75 /* FontTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B13A0521ADEC7B600150D75 /* FontTests.m */; };
 		6B13A0561AE20C5200150D75 /* ChordTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B13A0551AE20C5200150D75 /* ChordTest.m */; };
 		6B13A0591AE20C6A00150D75 /* AnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B13A0581AE20C6A00150D75 /* AnimationTests.m */; };
@@ -825,6 +826,7 @@
 		D2D830A81A88E72F008FD04B /* VFGraceNote.m in Sources */ = {isa = PBXBuildFile; fileRef = D2D830A71A88E72F008FD04B /* VFGraceNote.m */; };
 		D2EA35151A890A9400FE20EA /* Tempo.m in Sources */ = {isa = PBXBuildFile; fileRef = D2EA35141A890A9400FE20EA /* Tempo.m */; };
 		D2FB119E1A88346200D88316 /* VFCanvasContext.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FB119D1A88346200D88316 /* VFCanvasContext.m */; };
+		F48D04F73226F12E041220BA /* Pods_MusicNotationMobile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8169087984B86AA476CC329B /* Pods_MusicNotationMobile.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -1425,8 +1427,10 @@
 		6E5D40715BFDDF99898D6FAE /* Pods-StaffCollectionView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StaffCollectionView.release.xcconfig"; path = "Pods/Target Support Files/Pods-StaffCollectionView/Pods-StaffCollectionView.release.xcconfig"; sourceTree = "<group>"; };
 		6EBBE45C9D00E585B99E9770 /* Pods-Dragger.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dragger.release.xcconfig"; path = "Pods/Target Support Files/Pods-Dragger/Pods-Dragger.release.xcconfig"; sourceTree = "<group>"; };
 		7B4C8768733CD4250032579B /* Pods-RhythmTrainer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RhythmTrainer.release.xcconfig"; path = "Pods/Target Support Files/Pods-RhythmTrainer/Pods-RhythmTrainer.release.xcconfig"; sourceTree = "<group>"; };
+		8169087984B86AA476CC329B /* Pods_MusicNotationMobile.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MusicNotationMobile.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		82589C46268F169054103326 /* Pods-Reorganize.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reorganize.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Reorganize/Pods-Reorganize.debug.xcconfig"; sourceTree = "<group>"; };
 		8A7F563575C0C7BEA545D7D7 /* Pods-MusicNotationLibrary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicNotationLibrary.release.xcconfig"; path = "Pods/Target Support Files/Pods-MusicNotationLibrary/Pods-MusicNotationLibrary.release.xcconfig"; sourceTree = "<group>"; };
+		A0C2C54BD95A8C7F22037989 /* Pods_MusicNotationLibrary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MusicNotationLibrary.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5FF354156E18E236A96BAD3 /* Pods-MusicNotationLibrary.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicNotationLibrary.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MusicNotationLibrary/Pods-MusicNotationLibrary.debug.xcconfig"; sourceTree = "<group>"; };
 		ABC25F8868A73FF3252F56D1 /* Pods-PianoPlayer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PianoPlayer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PianoPlayer/Pods-PianoPlayer.debug.xcconfig"; sourceTree = "<group>"; };
 		B97B887BD2E4A0508676796B /* Pods-ScoreListener.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScoreListener.release.xcconfig"; path = "Pods/Target Support Files/Pods-ScoreListener/Pods-ScoreListener.release.xcconfig"; sourceTree = "<group>"; };
@@ -1701,6 +1705,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F48D04F73226F12E041220BA /* Pods_MusicNotationMobile.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1708,6 +1713,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B27161732044EC897AF6CEA /* Pods_MusicNotationLibrary.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2704,6 +2710,7 @@
 				6BBB49D01B667EE70036081B /* MusicNotationMobile */,
 				D278F5151A8689AE000C57C1 /* Products */,
 				3C17F1FE9AA86FA4E4AAD113 /* Pods */,
+				FC45440A981149BE103CBAC9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -3038,6 +3045,15 @@
 				6BC8C0191ABE58F900EE3286 /* JSONSerialization.h */,
 			);
 			name = "Lib Support";
+			sourceTree = "<group>";
+		};
+		FC45440A981149BE103CBAC9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A0C2C54BD95A8C7F22037989 /* Pods_MusicNotationLibrary.framework */,
+				8169087984B86AA476CC329B /* Pods_MusicNotationMobile.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

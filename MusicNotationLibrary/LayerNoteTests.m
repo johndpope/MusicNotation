@@ -8,7 +8,8 @@
 
 #import "LayerNoteTests.h"
 #import <objc/runtime.h>
-#import <TheAmazingAudioEngine-feature-osx/TheAmazingAudioEngine/TheAmazingAudioEngine.h>
+//#import <TheAmazingAudioEngine-feature-osx/TheAmazingAudioEngine/TheAmazingAudioEngine.h>
+#import <TheAmazingAudioEngine/TheAmazingAudioEngine.h>
 
 @interface VFShapeLayer (animationSwizzle)
 

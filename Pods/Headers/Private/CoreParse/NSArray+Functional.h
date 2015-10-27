@@ -1,1 +1,0 @@
-../../../CoreParse/CoreParse/NSArray+Functional.h

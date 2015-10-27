@@ -1,6 +1,0 @@
-framework module Pods_MusicNotationLibrary {
-  umbrella header "Pods-MusicNotationLibrary-umbrella.h"
-
-  export *
-  module * { export * }
-}

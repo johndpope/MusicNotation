@@ -1,6 +1,0 @@
-framework module TheAmazingAudioEngine {
-  umbrella header "Pods-MusicNotationLibrary-TheAmazingAudioEngine-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -1,1 +1,0 @@
-../../../TheAmazingAudioEngine/Modules/AESequencer/AESequencerChannelSequence.h
