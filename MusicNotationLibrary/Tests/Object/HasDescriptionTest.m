@@ -1,0 +1,79 @@
+//  OCHamcrest by Jon Reid, http://qualitycoding.org/about/
+//  Copyright 2014 hamcrest.org. See LICENSE.txt
+
+    // Class under test
+#define HC_SHORTHAND
+#import "HCHasDescription.h"
+
+    // Collaborators
+#import "HCIsEqual.h"
+
+    // Test support
+#import "AbstractMatcherTest.h"
+
+
+static NSString *fakeDescription = @"DESCRIPTION";
+
+@interface FakeWithDescription : NSObject
+@end
+
+@implementation FakeWithDescription
++ (instancetype)fake  { return [[self alloc] init]; }
+- (NSString *)description  { return fakeDescription; }
+@end
+
+
+@interface HasDescriptionTest : AbstractMatcherTest
+@end
+
+@implementation HasDescriptionTest
+
+- (void)testCopesWithNilsAndUnknownTypes
+{
+    id matcher = hasDescription(equalTo(@"irrelevant"));
+
+    assertNilSafe(matcher);
+    assertUnknownTypeSafe(matcher);
+}
+
+- (void)testPassesResultOfDescriptionToNestedMatcher
+{
+    FakeWithDescription* fake = [FakeWithDescription fake];
+    assertMatches(@"equal", hasDescription(equalTo(fakeDescription)), fake);
+    assertDoesNotMatch(@"unequal", hasDescription(equalTo(@"foo")), fake);
+}
+
+- (void)testProvidesConvenientShortcutForDescriptionEqualTo
+{
+    FakeWithDescription* fake = [FakeWithDescription fake];
+    assertMatches(@"equal", hasDescription(fakeDescription), fake);
+    assertDoesNotMatch(@"unequal", hasDescription(@"foo"), fake);
+}
+
+- (void)testMismatchDoesNotRepeatTheDescription
+{
+    FakeWithDescription* fake = [FakeWithDescription fake];
+    assertMismatchDescription(@"was \"DESCRIPTION\"", hasDescription(@"foo"), fake);
+}
+
+- (void)testHasReadableDescription
+{
+    assertDescription(@"an object with description \"foo\"", hasDescription(@"foo"));
+}
+
+- (void)testSuccessfulMatchDoesNotGenerateMismatchDescription
+{
+    assertNoMismatchDescription(hasDescription(@"DESCRIPTION"), [FakeWithDescription fake]);
+}
+
+- (void)testMismatchDescriptionShowsActualArgument
+{
+    assertMismatchDescription(@"was \"bad\"", hasDescription(@"foo"), @"bad");
+}
+
+- (void)testDescribeMismatch
+{
+    assertDescribeMismatch(@"was \"bad\"", hasDescription(@"foo"), @"bad");
+}
+
+@end

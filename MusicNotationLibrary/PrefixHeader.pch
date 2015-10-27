@@ -1,0 +1,46 @@
+//
+//  PrefixHeader.pch
+//  VexFlow
+//
+//  Created by Scott on 6/5/15.
+//  Copyright (c) 2015 feedbacksoftware.com. All rights reserved.
+//
+
+#ifndef VexFlow_PrefixHeader_pch
+#define VexFlow_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+
+//#import <AFNetworking/AFNetworking.h>
+//#import <ReactiveCocoa/ReactiveCocoa.h>
+
+#import <ReflectableEnum/ReflectableEnum.h>
+
+#import <CoreParse/CoreParse.h>
+
+#import <POP/POP.h>
+
+#import <CocoaLumberjack/CocoaLumberjack.h>
+#import <CocoaLumberjack/DDLog.h>
+#import <CocoaLumberjack/DDLegacyMacros.h>
+#import "DDLog.h"
+
+#ifdef DEBUG
+#define CG_CONTEXT_SHOW_BACKTRACE 1
+static const int ddLogLevel = DDLogLevelVerbose; //LOG_LEVEL_VERBOSE; //LOG_LEVEL_ERROR; //LOG_LEVEL_VERBOSE;
+#else
+static const int ddLogLevel = LOG_LEVEL_ERROR;
+#endif
+
+#endif
+
+#endif
+
+
+
+

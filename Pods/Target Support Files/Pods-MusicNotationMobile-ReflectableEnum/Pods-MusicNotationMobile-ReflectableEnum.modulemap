@@ -1,0 +1,6 @@
+framework module ReflectableEnum {
+  umbrella header "Pods-MusicNotationMobile-ReflectableEnum-umbrella.h"
+
+  export *
+  module * { export * }
+}

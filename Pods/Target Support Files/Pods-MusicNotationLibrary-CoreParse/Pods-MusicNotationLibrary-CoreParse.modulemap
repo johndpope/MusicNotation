@@ -1,0 +1,6 @@
+framework module CoreParse {
+  umbrella header "Pods-MusicNotationLibrary-CoreParse-umbrella.h"
+
+  export *
+  module * { export * }
+}

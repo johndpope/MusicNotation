@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf871733-f026-4dfb-8c9a-3b52a0e1e79c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/.clang-format" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/AppDelegate.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/BarItem.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/Carthage/Checkouts/Box/Box.xcodeproj/xcshareddata/xcschemes/Box-Mac.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/Carthage/Checkouts/Box/Box.xcodeproj/xcshareddata/xcschemes/Box-iOS.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/BridgingHeader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/CustomInfiniteIndicator.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/DetailViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScrollerTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/Base.lproj/LaunchScreen.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/MasterViewController.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/NSObject+AutoDescription.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/NSObject+AutoDescription.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/NSObject+CleanDescription.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/NSObject+CleanDescription.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/NSString+NSStringAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/NSString+NSStringAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/ReactiveCocoa.xcodeproj/xcshareddata/xcschemes/ReactiveCocoa Mac.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/ReactiveCocoa.xcodeproj/xcshareddata/xcschemes/ReactiveCocoa iOS.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/RefreshAnimationTest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/RefreshAnimationTest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/RefreshControl.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/Carthage/Checkouts/Result/Result.xcodeproj/xcshareddata/xcschemes/Result-Mac.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/Carthage/Checkouts/Result/Result.xcodeproj/xcshareddata/xcschemes/Result-iOS.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScrollerTests/ScoreScrollerTests.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/StaffLineRenderOptions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/StaffLineRenderOptions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/StoryModel.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/UIApplication+NetworkIndicator.swift" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/UIScrollView+InfiniteScroll.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ScoreScroller/UIScrollView+InfiniteScroll.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/VFGlyphTabStruct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/VFGlyphTabStruct.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/VFTablesAccListStruct.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VexFlow/VFTablesAccListStruct.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/Carthage/Checkouts/Box/Box.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/Carthage/Checkouts/Result/Result.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projects/ReactiveCocoa/ReactiveCocoa.xcodeproj/project.pbxproj" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Quick/Quick.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Quick/Quick.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Quick/Quick.xcodeproj/xcshareddata/xcschemes/Quick-OSX.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Quick/Quick.xcodeproj/xcshareddata/xcschemes/Quick-iOS.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Carthage/Checkouts/TheAmazingAudioEngine-master/TheAmazingAudioEngine.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/ClassFactory.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/ClassFactory.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDASLLogger.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDASLLogger.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDFileLogger.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDFileLogger.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDLog.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDLog.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDTTYLogger.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/VexFlow/DDTTYLogger.m" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VexFlow/Group.h" afterPath="$PROJECT_DIR$/VexFlow/OCGroup.h" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/VexFlow/Group.m" afterPath="$PROJECT_DIR$/VexFlow/OCGroup.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (PowerMac).ograph" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (PowerMac).ograph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (iMac).ograph" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (iMac).ograph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (iPad).ograph" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (iPad).ograph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (iPhone 3GS).ograph" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Lumberjack Benchmark (iPhone 3GS).ograph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/LumberjackLogo.png" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/LumberjackLogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/.gitignore" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/.travis.yml" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/AccidentalTests.m" afterPath="$PROJECT_DIR$/VexFlow/AccidentalTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/AnimationTests.m" afterPath="$PROJECT_DIR$/VexFlow/AnimationTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/AnnotationTests.m" afterPath="$PROJECT_DIR$/VexFlow/AnnotationTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/AppDelegate.m" afterPath="$PROJECT_DIR$/VexFlow/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/ArticulationTests.m" afterPath="$PROJECT_DIR$/VexFlow/ArticulationTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/AutoBeamFormattingTests.h" afterPath="$PROJECT_DIR$/VexFlow/AutoBeamFormattingTests.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/AutoBeamFormattingTests.m" afterPath="$PROJECT_DIR$/VexFlow/AutoBeamFormattingTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/BaseNSLogging.h" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/BaseNSLogging.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/BaseNSLogging.m" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/BaseNSLogging.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iMac.csv" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iMac.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iPad.csv" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iPad.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iPhone 3GS.csv" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iPhone 3GS.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iPodTouch3 GCD.csv" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/Results/Benchmark iPodTouch3 GCD.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Cartfile" afterPath="$PROJECT_DIR$/Cartfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/ClefTests.m" afterPath="$PROJECT_DIR$/VexFlow/ClefTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/CocoaLumberjack.podspec" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/CocoaLumberjack.podspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/DotTests.m" afterPath="$PROJECT_DIR$/VexFlow/DotTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/DynamicLogging.h" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/DynamicLogging.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/DynamicLogging.m" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/DynamicLogging.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/IAModelBase.h" afterPath="$PROJECT_DIR$/VexFlow/IAModelBase.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/IAModelBase.m" afterPath="$PROJECT_DIR$/VexFlow/IAModelBase.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/KeyClefTests.m" afterPath="$PROJECT_DIR$/VexFlow/KeyClefTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/KeySignatureTests.m" afterPath="$PROJECT_DIR$/VexFlow/KeySignatureTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/LICENSE.txt" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/VexFlow/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/NSArray+OCTotallyLazy.m" afterPath="$PROJECT_DIR$/VexFlow/NSArray+OCTotallyLazy.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/NSUserDefaults+sdfextrasubs.m" afterPath="$PROJECT_DIR$/VexFlow/NSUserDefaults+sdfextrasubs.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/xcshareddata/xcschemes/Nimble-OSX.xcscheme" afterPath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/xcshareddata/xcschemes/Nimble-OSX.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/xcshareddata/xcschemes/Nimble-iOS.xcscheme" afterPath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/xcshareddata/xcschemes/Nimble-iOS.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/project.xcworkspace/xcshareddata/Nimble.xccheckout" afterPath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/project.xcworkspace/xcshareddata/Nimble.xccheckout" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/NotationsGrid.m" afterPath="$PROJECT_DIR$/VexFlow/NotationsGrid.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/OCTotallyLazy.h" afterPath="$PROJECT_DIR$/VexFlow/OCTotallyLazy.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/OrnamentTests.m" afterPath="$PROJECT_DIR$/VexFlow/OrnamentTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/PerformanceTesting.h" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/PerformanceTesting.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/PerformanceTesting.m" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/PerformanceTesting.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/PlayNoteTests.m" afterPath="$PROJECT_DIR$/VexFlow/PlayNoteTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/README.md" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/Rational.m" afterPath="$PROJECT_DIR$/VexFlow/Rational.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/RhythmTests.m" afterPath="$PROJECT_DIR$/VexFlow/RhythmTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/ScrollViewTests.m" afterPath="$PROJECT_DIR$/VexFlow/ScrollViewTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/StaffConnectorTests.m" afterPath="$PROJECT_DIR$/VexFlow/StaffConnectorTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/StaffHairpinTests.m" afterPath="$PROJECT_DIR$/VexFlow/StaffHairpinTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/StaffLineTests.m" afterPath="$PROJECT_DIR$/VexFlow/StaffLineTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/StaffNoteTests.m" afterPath="$PROJECT_DIR$/VexFlow/StaffNoteTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/StaffTests.m" afterPath="$PROJECT_DIR$/VexFlow/StaffTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/StaticLogging.h" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/StaticLogging.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/StaticLogging.m" afterPath="$PROJECT_DIR$/Carthage/Checkouts/CocoaLumberjack/Benchmarking/StaticLogging.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/Tempo.h" afterPath="$PROJECT_DIR$/VexFlow/Tempo.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/Tempo.m" afterPath="$PROJECT_DIR$/VexFlow/Tempo.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/TextTests.m" afterPath="$PROJECT_DIR$/VexFlow/TextTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/TimeSignatureTests.m" afterPath="$PROJECT_DIR$/VexFlow/TimeSignatureTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/TransformTests.m" afterPath="$PROJECT_DIR$/VexFlow/TransformTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFAccidental.h" afterPath="$PROJECT_DIR$/VexFlow/VFAccidental.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFAccidental.m" afterPath="$PROJECT_DIR$/VexFlow/VFAccidental.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFAnnotation.h" afterPath="$PROJECT_DIR$/VexFlow/VFAnnotation.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFAnnotation.m" afterPath="$PROJECT_DIR$/VexFlow/VFAnnotation.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFArticulation.m" afterPath="$PROJECT_DIR$/VexFlow/VFArticulation.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFBarNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFBarNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFBeam.h" afterPath="$PROJECT_DIR$/VexFlow/VFBeam.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFBeam.m" afterPath="$PROJECT_DIR$/VexFlow/VFBeam.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFBend.m" afterPath="$PROJECT_DIR$/VexFlow/VFBend.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFBezierPath.h" afterPath="$PROJECT_DIR$/VexFlow/VFBezierPath.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFBezierPath.m" afterPath="$PROJECT_DIR$/VexFlow/VFBezierPath.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFBoundingBox.m" afterPath="$PROJECT_DIR$/VexFlow/VFBoundingBox.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFCanvasContext.h" afterPath="$PROJECT_DIR$/VexFlow/VFCanvasContext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFCanvasContext.m" afterPath="$PROJECT_DIR$/VexFlow/VFCanvasContext.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFClef.h" afterPath="$PROJECT_DIR$/VexFlow/VFClef.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFClef.m" afterPath="$PROJECT_DIR$/VexFlow/VFClef.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFClefNote.h" afterPath="$PROJECT_DIR$/VexFlow/VFClefNote.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFClefNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFClefNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFColor.h" afterPath="$PROJECT_DIR$/VexFlow/VFColor.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFColor.m" afterPath="$PROJECT_DIR$/VexFlow/VFColor.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFCrescendo.m" afterPath="$PROJECT_DIR$/VexFlow/VFCrescendo.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFCurve.h" afterPath="$PROJECT_DIR$/VexFlow/VFCurve.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFCurve.m" afterPath="$PROJECT_DIR$/VexFlow/VFCurve.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFDelegates.h" afterPath="$PROJECT_DIR$/VexFlow/VFDelegates.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFDot.h" afterPath="$PROJECT_DIR$/VexFlow/VFDot.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFDot.m" afterPath="$PROJECT_DIR$/VexFlow/VFDot.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFEnum.h" afterPath="$PROJECT_DIR$/VexFlow/VFEnum.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFEnum.m" afterPath="$PROJECT_DIR$/VexFlow/VFEnum.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFFont.h" afterPath="$PROJECT_DIR$/VexFlow/VFFont.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFFont.m" afterPath="$PROJECT_DIR$/VexFlow/VFFont.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFFormatter.h" afterPath="$PROJECT_DIR$/VexFlow/VFFormatter.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFFormatter.m" afterPath="$PROJECT_DIR$/VexFlow/VFFormatter.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFFretHandFinger.h" afterPath="$PROJECT_DIR$/VexFlow/VFFretHandFinger.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFFretHandFinger.m" afterPath="$PROJECT_DIR$/VexFlow/VFFretHandFinger.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFGhostNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFGhostNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFGlyph.h" afterPath="$PROJECT_DIR$/VexFlow/VFGlyph.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFGlyph.m" afterPath="$PROJECT_DIR$/VexFlow/VFGlyph.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFGlyphList.m" afterPath="$PROJECT_DIR$/VexFlow/VFGlyphList.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFGraceNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFGraceNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFGraceNoteGroup.h" afterPath="$PROJECT_DIR$/VexFlow/VFGraceNoteGroup.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFGraceNoteGroup.m" afterPath="$PROJECT_DIR$/VexFlow/VFGraceNoteGroup.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFImage.h" afterPath="$PROJECT_DIR$/VexFlow/VFImage.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFImage.m" afterPath="$PROJECT_DIR$/VexFlow/VFImage.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFKeyManager.m" afterPath="$PROJECT_DIR$/VexFlow/VFKeyManager.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFKeyProperty.h" afterPath="$PROJECT_DIR$/VexFlow/VFKeyProperty.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFKeyProperty.m" afterPath="$PROJECT_DIR$/VexFlow/VFKeyProperty.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFKeySignature.h" afterPath="$PROJECT_DIR$/VexFlow/VFKeySignature.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFKeySignature.m" afterPath="$PROJECT_DIR$/VexFlow/VFKeySignature.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFKit.m" afterPath="$PROJECT_DIR$/VexFlow/VFKit.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFLog.h" afterPath="$PROJECT_DIR$/VexFlow/VFLog.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFLog.m" afterPath="$PROJECT_DIR$/VexFlow/VFLog.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFMetrics.h" afterPath="$PROJECT_DIR$/VexFlow/VFMetrics.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFMetrics.m" afterPath="$PROJECT_DIR$/VexFlow/VFMetrics.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFModifier.h" afterPath="$PROJECT_DIR$/VexFlow/VFModifier.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFModifier.m" afterPath="$PROJECT_DIR$/VexFlow/VFModifier.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFModifierContext.h" afterPath="$PROJECT_DIR$/VexFlow/VFModifierContext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFModifierContext.m" afterPath="$PROJECT_DIR$/VexFlow/VFModifierContext.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFMoveableClef.m" afterPath="$PROJECT_DIR$/VexFlow/VFMoveableClef.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFNote.h" afterPath="$PROJECT_DIR$/VexFlow/VFNote.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFNoteHead.h" afterPath="$PROJECT_DIR$/VexFlow/VFNoteHead.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFNoteHead.m" afterPath="$PROJECT_DIR$/VexFlow/VFNoteHead.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFNoteTie.h" afterPath="$PROJECT_DIR$/VexFlow/VFNoteTie.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFNoteTie.m" afterPath="$PROJECT_DIR$/VexFlow/VFNoteTie.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFOptions.h" afterPath="$PROJECT_DIR$/VexFlow/VFOptions.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFOptions.m" afterPath="$PROJECT_DIR$/VexFlow/VFOptions.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFOrnament.m" afterPath="$PROJECT_DIR$/VexFlow/VFOrnament.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFPedalMarking.h" afterPath="$PROJECT_DIR$/VexFlow/VFPedalMarking.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFPedalMarking.m" afterPath="$PROJECT_DIR$/VexFlow/VFPedalMarking.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFPlayNote.h" afterPath="$PROJECT_DIR$/VexFlow/VFPlayNote.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFPlayNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFPlayNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFPoint.h" afterPath="$PROJECT_DIR$/VexFlow/VFPoint.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFRect.h" afterPath="$PROJECT_DIR$/VexFlow/VFRect.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFRenderer.h" afterPath="$PROJECT_DIR$/VexFlow/VFRenderer.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFRenderer.m" afterPath="$PROJECT_DIR$/VexFlow/VFRenderer.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFShift.h" afterPath="$PROJECT_DIR$/VexFlow/VFShift.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFShiftState.h" afterPath="$PROJECT_DIR$/VexFlow/VFShiftState.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFShiftState.m" afterPath="$PROJECT_DIR$/VexFlow/VFShiftState.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaff.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaff.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaff.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaff.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffBarLine.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffBarLine.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffBarLine.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffBarLine.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffConnector.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffConnector.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffConnector.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffConnector.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffHairpin.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffHairpin.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffHairpin.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffHairpin.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffLine.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffLine.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffLine.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffLine.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffModifier.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffModifier.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffModifier.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffModifier.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffNote.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffNote.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffRepetition.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffRepetition.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffRepetition.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffRepetition.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffSection.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffSection.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffSection.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffSection.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffTempo.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffTempo.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffTempo.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffTempo.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffText.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffText.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffText.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffText.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffTie.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffTie.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffTie.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffTie.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffVolta.h" afterPath="$PROJECT_DIR$/VexFlow/VFStaffVolta.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStaffVolta.m" afterPath="$PROJECT_DIR$/VexFlow/VFStaffVolta.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStem.h" afterPath="$PROJECT_DIR$/VexFlow/VFStem.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStem.m" afterPath="$PROJECT_DIR$/VexFlow/VFStem.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStemmableNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFStemmableNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStringNumber.h" afterPath="$PROJECT_DIR$/VexFlow/VFStringNumber.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStringNumber.m" afterPath="$PROJECT_DIR$/VexFlow/VFStringNumber.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStrokes.h" afterPath="$PROJECT_DIR$/VexFlow/VFStrokes.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFStrokes.m" afterPath="$PROJECT_DIR$/VexFlow/VFStrokes.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFSymbol.h" afterPath="$PROJECT_DIR$/VexFlow/VFSymbol.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFSymbol.m" afterPath="$PROJECT_DIR$/VexFlow/VFSymbol.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTabNote.h" afterPath="$PROJECT_DIR$/VexFlow/VFTabNote.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTabNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFTabNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTabSlide.m" afterPath="$PROJECT_DIR$/VexFlow/VFTabSlide.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTabStaff.h" afterPath="$PROJECT_DIR$/VexFlow/VFTabStaff.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTabStaff.m" afterPath="$PROJECT_DIR$/VexFlow/VFTabStaff.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTabTie.m" afterPath="$PROJECT_DIR$/VexFlow/VFTabTie.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTables.h" afterPath="$PROJECT_DIR$/VexFlow/VFTables.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTables.m" afterPath="$PROJECT_DIR$/VexFlow/VFTables.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTablesAccidentalCodes.h" afterPath="$PROJECT_DIR$/VexFlow/VFTablesAccidentalCodes.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTablesGlyphStruct.h" afterPath="$PROJECT_DIR$/VexFlow/VFTablesGlyphStruct.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTablesNoteData.h" afterPath="$PROJECT_DIR$/VexFlow/VFTablesNoteData.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTablesNoteData.m" afterPath="$PROJECT_DIR$/VexFlow/VFTablesNoteData.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTablesOrnamentCodes.m" afterPath="$PROJECT_DIR$/VexFlow/VFTablesOrnamentCodes.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTestView.h" afterPath="$PROJECT_DIR$/VexFlow/VFTestView.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTestView.m" afterPath="$PROJECT_DIR$/VexFlow/VFTestView.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFText.h" afterPath="$PROJECT_DIR$/VexFlow/VFText.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFText.m" afterPath="$PROJECT_DIR$/VexFlow/VFText.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTextBracket.m" afterPath="$PROJECT_DIR$/VexFlow/VFTextBracket.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTextDynamics.h" afterPath="$PROJECT_DIR$/VexFlow/VFTextDynamics.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTextDynamics.m" afterPath="$PROJECT_DIR$/VexFlow/VFTextDynamics.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTextNote.h" afterPath="$PROJECT_DIR$/VexFlow/VFTextNote.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTextNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFTextNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTickContext.h" afterPath="$PROJECT_DIR$/VexFlow/VFTickContext.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTickContext.m" afterPath="$PROJECT_DIR$/VexFlow/VFTickContext.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTickable.h" afterPath="$PROJECT_DIR$/VexFlow/VFTickable.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTickable.m" afterPath="$PROJECT_DIR$/VexFlow/VFTickable.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTimeSigNote.h" afterPath="$PROJECT_DIR$/VexFlow/VFTimeSigNote.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTimeSigNote.m" afterPath="$PROJECT_DIR$/VexFlow/VFTimeSigNote.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTimeSignature.h" afterPath="$PROJECT_DIR$/VexFlow/VFTimeSignature.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTimeSignature.m" afterPath="$PROJECT_DIR$/VexFlow/VFTimeSignature.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTremulo.h" afterPath="$PROJECT_DIR$/VexFlow/VFTremulo.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTremulo.m" afterPath="$PROJECT_DIR$/VexFlow/VFTremulo.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTuning.m" afterPath="$PROJECT_DIR$/VexFlow/VFTuning.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTuplet.h" afterPath="$PROJECT_DIR$/VexFlow/VFTuplet.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFTuplet.m" afterPath="$PROJECT_DIR$/VexFlow/VFTuplet.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFVex.h" afterPath="$PROJECT_DIR$/VexFlow/VFVex.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFVexCore.h" afterPath="$PROJECT_DIR$/VexFlow/VFVexCore.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFVibrato.m" afterPath="$PROJECT_DIR$/VexFlow/VFVibrato.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFVoice.h" afterPath="$PROJECT_DIR$/VexFlow/VFVoice.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFVoice.m" afterPath="$PROJECT_DIR$/VexFlow/VFVoice.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFVoiceGroup.h" afterPath="$PROJECT_DIR$/VexFlow/VFVoiceGroup.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VFVoiceGroup.m" afterPath="$PROJECT_DIR$/VexFlow/VFVoiceGroup.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VexFlowTestHelpers.m" afterPath="$PROJECT_DIR$/VexFlow/VexFlowTestHelpers.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlowTests/VexFlowTests.m" afterPath="$PROJECT_DIR$/VexFlowTests/VexFlowTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/ViewController.h" afterPath="$PROJECT_DIR$/VexFlow/ViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/ViewController.m" afterPath="$PROJECT_DIR$/VexFlow/ViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow/VoiceTests.m" afterPath="$PROJECT_DIR$/VexFlow/VoiceTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/accidental.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/accidental.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/annotation.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/annotation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/articulation.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/articulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/barnote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/barnote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/beam.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/beam.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/bend.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/bend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/boundingbox.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/boundingbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/canvascontext.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/canvascontext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/clef.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/clef.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/clefnote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/clefnote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/crescendo.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/crescendo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/curve.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/curve.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/dot.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/dot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/flow.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/flow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/formatter.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/formatter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/fraction.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/fraction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/frethandfinger.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/frethandfinger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/ghostnote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/ghostnote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/glyph.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/glyph.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/glyphs.html" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/glyphs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/gracenote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/gracenote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/gracenotegroup.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/gracenotegroup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/header.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/keymanager.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/keymanager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/keysignature.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/keysignature.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/modifier.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/modifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/modifiercontext.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/modifiercontext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/music.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/music.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/note.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/note.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/notehead.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/notehead.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/ornament.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/ornament.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/pedalmarking.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/pedalmarking.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Carthage/Checkouts/Nimble/Nimble.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VexFlow.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/VexFlow.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/raphaelcontext.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/raphaelcontext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/renderer.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/renderer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stave.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stave.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavebarline.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavebarline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/staveconnector.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/staveconnector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavehairpin.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavehairpin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/staveline.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/staveline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavemodifier.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavemodifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavenote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavenote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/staverepetition.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/staverepetition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavesection.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavesection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavetempo.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavetempo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavetext.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavetext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavetie.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavetie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavevolta.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stavevolta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stem.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stemmablenote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stemmablenote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stringnumber.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/stringnumber.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/strokes.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/strokes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/svgcontext.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/svgcontext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tables.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tables.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabnote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabnote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabslide.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabslide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabstave.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabstave.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabtie.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tabtie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/textbracket.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/textbracket.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/textdynamics.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/textdynamics.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/textnote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/textnote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tickable.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tickable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tickcontext.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tickcontext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/timesignature.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/timesignature.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/timesignote.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/timesignote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/transform.html" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/transform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tremolo.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tremolo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tuning.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tuning.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tuplet.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/tuplet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/vex.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/vex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/vibrato.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/vibrato.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/voice.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/voice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/voicegroup.js" afterPath="$PROJECT_DIR$/Carthage/Checkouts/vexflow/src/voicegroup.js" />
+    </list>
+    <ignored path="VexFlow.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
+  <component name="FavoritesManager">
+    <favorites_list name="VexFlow" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ViewController.m" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VexFlow/ViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="7905">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="206" />
+    <option name="y" value="99" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VexFlow" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VexFlow" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VexFlow" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pods" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="VexFlow" TARGET_NAME="VexFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="VexFlow" RUN_TARGET_NAME="VexFlow" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="VexFlow" TARGET_NAME="VexFlowTests" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="VexFlow" TARGET_NAME="VexFlow" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="VexFlow" TARGET_NAME="VexFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="VexFlow" RUN_TARGET_NAME="VexFlow" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf871733-f026-4dfb-8c9a-3b52a0e1e79c" name="Default" comment="" />
+      <created>1433452078617</created>
+      <option name="number" value="Default" />
+      <updated>1433452078617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="206" y="99" width="1400" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/VexFlow/ViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="7905">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
