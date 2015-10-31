@@ -13,7 +13,10 @@ Based on <a href="https://github.com/0xfe/vexflow">VexFlow </a>.
 - Time Signatures, Accidentals, etc.
 - Simple to use object heirarchy for drawing to UIView or CALayer
 - Highly customizable.
+ 
+![](acc1.png =250x)
 
+![](acc2.png =250x)
 
 ## Requirements
 
