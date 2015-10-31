@@ -5,6 +5,7 @@ Introducing <b>MusicNotation</b>
 Scott's' iOS-based music notation library for rendering with musical scores. 
 Based on <a href="https://github.com/0xfe/vexflow">VexFlow </a>.
 
+## THIS LIBRARY NEEDS YOUR HELP. MANY OF THE FEATURES ARE ALMOST COMPLETED BUT NEED YOUR HELP
 
 ## Features
 
